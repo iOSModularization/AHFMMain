@@ -83,7 +83,7 @@ public class AHFMMainVC: UIViewController {
         let frame = CGRect(x: 0, y: 64.0, width: ScreenSize.width, height: ScreenSize.height - 64.0)
         var style = AHCategoryNavBarStyle()
         //        style.offsetX = -16.0
-        style.interItemSpace = 5.0
+        style.interItemSpace = 7.0
         style.itemPadding = 8.0
         style.isScrollabel = false
         style.layoutAlignment = .left

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AHFMMain'
-  s.version          = '0.1.0'
+  s.version          = '0.1.01'
   s.summary          = 'A short description of AHFMMain.'
 
 # This description is used to generate tags and improve search results.
